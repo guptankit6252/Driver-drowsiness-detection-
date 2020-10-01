@@ -1,6 +1,7 @@
 # importing the necessary packages for the project 
 #this is project
 import numpy as np
+import pandas as pd
 import playsound
 import dlib
 import cv2
